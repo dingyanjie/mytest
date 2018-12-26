@@ -1,0 +1,4 @@
+/my-test/server/target
+/my-test/.idea
+*.iml
+/my-test/server/*.iml
